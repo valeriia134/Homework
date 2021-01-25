@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.head{
+    font-size: x-large;
+}
+.video-center{
+    display: block;
+    margin: auto;
+}
+div{
+    text-decoration: blue;
+    
+    
+}
+.conteiner{
+    background-color:rgb(144, 144, 238);
+    text-decoration: rgb(0, 0, 0);
+}
+#box{
+    border: 10px solid grey;
+}
+.image-centr{
+    display: block;
+    margin: auto;
+    height: 480;
+    width: 640;
+}

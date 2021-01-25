@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: teal;
+    background: radial-gradient(circle rgb(20, 20, 141) white);
+    font-family: sans-serif;
+}
+p{
+    margin-bottom:  30px;
+}
+
+.loginform{
+    background-color: white;
+    width: 100%;
+    max-width: 600px;
+    margin: 0px auto;
+    margin-top: 100px;
+    padding: 40px 0px 10px 10px;
+    text-align: center;
+}
+.title{
+    text-transform: uppercase;
+    color: rgb(86, 2136, 11);
+    font-size: 50px;
+    margin-bottom: 40px                             ;
+}
+.login{
+
+}
+.btn{
+    background-color: rgb(22, 230, 22);
+    color: white;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    border-radius: 4px;
+    border: 1px solid green;
+    font-size: 20px;
+}
+
+#email, #pass{
+    width: 300px;
+    font-size: 20px;
+    border: 1px solid grey;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+label{
+    display: inline-block;
+    width: 200px;
+    padding: 5px 10px;
+    text-align: left;
+    vertical-align: top;
+
+}
